@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.movieTracker">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="com.example.movieTracker.EditMain"></activity>
+        <activity android:name="com.example.movieTracker.Rating" />
+        <activity android:name="com.example.movieTracker.Search" />
+        <activity android:name="com.example.movieTracker.EditMovie" />
+        <activity android:name="com.example.movieTracker.Favorites" />
+        <activity android:name="com.example.movieTracker.DisplayMovie" />
+        <activity android:name="com.example.movieTracker.RegisterMovie" />
+        <activity android:name="com.example.movieTracker.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

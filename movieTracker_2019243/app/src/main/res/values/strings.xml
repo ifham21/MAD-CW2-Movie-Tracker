@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Movie Tracking App</string>
+    <string name="display_movie">Display Movie</string>
+    <string name="availability">Availability</string>
+    <string name="edit_movie">Edit Movie</string>
+    <string name="search">Search</string>
+    <string name="rating">Rating</string>
+    <string name="textviewReg">TextView</string>
+    <string name="movieName">Movie Name :</string>
+    <string name="weight">Weight :</string>
+    <string name="releasedYear">Price :</string>
+    <string name="review">Description :</string>
+    <string name="register_movie_string">Register Movie</string>
+    <string name="register_movie">Register Movie</string>
+    <string name="submitReg">update</string>
+    <string name="cancelReg">Cancel</string>
+    <string name="addD">ADD TO KITCHEN</string>
+    <string name="saveA">save</string>
+    <string name="keyword">Keyword</string>
+    <string name="submitr">submit</string>
+
+    <string name="display_movies">DISPLAY MOVIES</string>
+    <string name="favourite">FAVOURITE</string>
+    <string name="edit_movies">EDIT MOVIES</string>
+    <string name="SEARCH_1">SEARCH</string>
+    <string name="rate_movies">RATE MOVIES</string>
+    <string name="register_movies">REGISTER MOVIES</string>
+    <string name="movie_name">Movie name</string>
+    <string name="year">Year</string>
+    <string name="director">Director</string>
+    <string name="name_of_the_actor_actress">Name of the actor/actress</string>
+    <string name="add_to_favourite">Add to favourite</string>
+    <string name="look_up">Look Up</string>
+    <string name="type_here">Type Here</string>
+</resources>
